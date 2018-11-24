@@ -1,0 +1,21 @@
+[
+	{
+		"id": "03081170007",
+		"nama": "Erlina",
+		"pin": "000000",
+		"saldo": 1000,
+		"blocked": false,
+		"history": [
+			{
+				"tipe": "Kredit",
+				"nominal": 5000000,
+				"tanggal": "2016-04-08 11:43:36.309721"
+			},
+			{
+				"tipe": "Debit",
+				"nominal": 10000000,
+				"tanggal": "2016-04-08 11:43:36.309721"
+			}
+		]
+	}
+]
