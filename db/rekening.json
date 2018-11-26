@@ -1,21 +1,40 @@
 [
-	{
-		"id": "03081170007",
-		"nama": "Erlina",
-		"pin": "000000",
-		"saldo": 1000,
-		"blocked": false,
-		"history": [
-			{
-				"tipe": "Kredit",
-				"nominal": 5000000,
-				"tanggal": "2016-04-08 11:43:36.309721"
-			},
-			{
-				"tipe": "Debit",
-				"nominal": 10000000,
-				"tanggal": "2016-04-08 11:43:36.309721"
-			}
-		]
-	}
+    {
+        "id": "03081170007",
+        "nama": "Erlina",
+        "pin": "123123",
+        "saldo": 2800000,
+        "blocked": false,
+        "history": [
+            {
+                "tipe": "Kredit",
+                "nominal": 5000000,
+                "tanggal": "2016-04-08 11:43:36.309721"
+            },
+            {
+                "tipe": "Debit",
+                "nominal": 10000000,
+                "tanggal": "2016-04-08 11:43:36.309721"
+            }
+        ]
+    },
+    {
+        "id": "03081170008",
+        "nama": "Erlina_2",
+        "pin": "123123",
+        "saldo": 3100000,
+        "blocked": false,
+        "history": [
+            {
+                "tipe": "Kredit",
+                "nominal": 5000000,
+                "tanggal": "2016-04-08 11:43:36.309721"
+            },
+            {
+                "tipe": "Debit",
+                "nominal": 10000000,
+                "tanggal": "2016-04-08 11:43:36.309721"
+            }
+        ]
+    }
 ]
